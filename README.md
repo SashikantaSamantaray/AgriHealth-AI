@@ -38,3 +38,8 @@ Rural communities often lack immediate access to professional healthcare. AgriHe
 | 🧠 Headache       | Rest, avoid bright screens, hydration |
 | 🍽️ Stomach Pain  | Light meals, warm water, doctor if severe |
 
+
+TEAM MEMBER:
+1.Sashikanta Samantaray(23CSEDS034)(23UG011000)
+2.Brundabana Sahu(23CSE584)(23UG010663)
+3.Rupankar Dash(23LECSEDS001)(23UG01LE13)
